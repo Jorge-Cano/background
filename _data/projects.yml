@@ -1,0 +1,16 @@
+# Projects
+# uncomment the urls if you wish to display them, and add your own URL
+
+# Quote App
+- project: Quote Machine
+  role: Web Development
+  duration: 2017
+  url: "https://github.com/Jorge-Cano/Quote-Machine-React"
+  description: Creating an CRUD Application that can upload quotes to Firebase, Authenticate Users via Github and Gmail.
+
+# Thumper
+- project: Thumper, Websockets and Music for Collaboration
+  role: Scrum Master, Developer
+  duration: 2017
+  url: "https://github.com/Jorge-Cano/Thumper"
+  description: Our General Assembly team created an application that could live stream the same song via multiple devices as a proof of concept.
