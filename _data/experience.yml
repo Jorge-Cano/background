@@ -17,7 +17,11 @@
   position: Sales Operations Analyst
   duration:  Jun, 2017 &mdash; Feb, 2018
   summary: Sales Operations CRM Efficiencies & Workflows. Lead Generation, Data Cleansing, Data Processing. Email Content Manager, Automation and A/B Testing.
-
+        <ul class="resume-item-list">
+          <li>Email Automation via HubSpot, MailShake</li>
+          <li>Webscraping, Lead Generation and Data Transformation</li>
+          <li>Reporting, Sales Forecasting, and DataBase Management</li>
+        </ul>
 
 # Customer Success Manager
 - company: Outbound Engine
