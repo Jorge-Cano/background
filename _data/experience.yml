@@ -1,8 +1,20 @@
 # Jobs
-# Engineering, AI, Machine Learning
+# Solutions Engineering
+- company: Keen
+  position: Solutions Engineer
+  duration: Oct, 2018 &mdash; Present
+  summary: Integrations, Configuration Management, Pre-Sales and POC's.
+    <ul class="resume-item-list">
+      <li>Identifying areas of opportunity and new business</li>
+      <li>Collaborating with customers during presales, onboarding, and post sales success</li>
+      <li>Implement custom solutions for customers with the Keen API and SDK</li>
+      <li>Contriubuting to Keen's Knowledge Base, Support Center, and Documentation</li>
+    </ul>
+
+# Support Engineer
 - company: SparkCognition
   position: Customer Support Engineer
-  duration: Feb, 2017 &mdash; Present
+  duration: Feb, 2018 &mdash; Oct, 2018
   summary: Technical Support Lead, Integrations, Process Management and Zendesk Operations Owner.
     <ul class="resume-item-list">
       <li>Scripting in Python, Bash, Ruby & Javascript</li>
@@ -12,7 +24,7 @@
       <li>Building and Maintaining our Knowledge Base, Support Center, Product Content and Videos</li>
     </ul>
 
-# Director of Sales Strategy
+# Analytics
 - company: Dropoff
   position: Sales Operations Analyst
   duration:  Jun, 2017 &mdash; Feb, 2018
@@ -35,7 +47,7 @@
       <li>Data Quality, Salesforce Support, Reporting, Extraction, Transformation, and Loading</li>
     </ul>
 
-# Customer Success Manager
+# Sales
 - company: Yodle
   position: Sales Representative
   duration:   Feb, 2013  &mdash; Feb, 2014
