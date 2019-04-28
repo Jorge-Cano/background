@@ -2,10 +2,10 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 #Sentiment Analysis
-- project: Keen and Natural Language Processing for Sentiment Analysis
+- project: Natural Language Processing for Data Analysis
   role: Solutions Engineer
   duration: 2019
-  url: "https://jac-keen.github.io/keen-nlp-function/"
+  url: "https://jac-keen.github.io/keen-nlp-function/" "https://blog.keen.io/tutorial-keen-nlp-sentiment-analysis-made-easy/"
   description: Natural Language Processing utilizing Google NLP API, A feedback form built from scratch and incorporates sentiment analysis and then processes the analytics through Keen.io
 
 # Quote App
