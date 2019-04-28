@@ -1,8 +1,21 @@
 # Jobs
+
+- company: Keen.io
+  position: Solutions Engineer
+  duration: Oct, 2018 &mdash; Present
+  summary: Pre-Sales, Integrations, Solutions Architecting
+    <ul class="resume-item-list">
+      <li>Product Demonstrations, Proof of Concept, Technical Evaluation and Requirements</li>
+      <li>Sketching up requirements, Wireframing, Mockups, UI Design, Query Design, Data Modeling</li>
+      <li>Recommendations, Guidance, Post-Sales Solutions, Account Management</li>
+      <li>Support & Enablement, Integrations with Keen API, Intercom, DialPad, Slack, Canny</li>
+    </ul>
+
+
 # Engineering, AI, Machine Learning
 - company: SparkCognition
   position: Customer Support Engineer
-  duration: Feb, 2017 &mdash; Present
+  duration: Feb, 2017 &mdash; Oct, 2018
   summary: Technical Support Lead, Integrations, Process Management and Zendesk Operations Owner.
     <ul class="resume-item-list">
       <li>Scripting in Python, Bash, Ruby & Javascript</li>

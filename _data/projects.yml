@@ -1,6 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+#Sentiment Analysis
+- project: Keen and Natural Language Processing for Sentiment Analysis
+  role: Solutions Engineer
+  duration: 2019
+  url: "https://jac-keen.github.io/keen-nlp-function/"
+  description: Natural Language Processing utilizing Google NLP API, A feedback form built from scratch and incorporates sentiment analysis and then processes the analytics through Keen.io
+
 # Quote App
 - project: Quote Machine
   role: Web Development
