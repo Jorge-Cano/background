@@ -4,10 +4,10 @@
 - company: Keen.io
   position: Product Manager
   duration: Jul 2018 &mdash; Present
-  summary: Product Ownership of Keens vision, roadmap, backlog, customer feedback loop, product training, platform experimentation, and collaborating with a world class engineering and ui/ux design team.
+  summary: Product Ownership of Keens vision, roadmap, backlog, customer feedback loop, product training, platform experimentation.
     <ul class="resume-item-list">
-      <li>Roadmap Design and Deliverables, Feature Benefit Analysis, User Stories and Narratives</li>
-      <li>Customer Feedback Loops, Surveys, Managing of our Backlog, Competitor/Market Analysis</li>
+      <li>Roadmap Design and Deliverables, Feature Benefit Analysis, User Stories, Narratives</li>
+      <li>Customer Feedback and Surveys, Backlog Management, Competitor/Market Analysis</li>
       <li>Developing and Launching Products in a Cloud based architecture (AWS), REST API, SDKs</li>
     </ul>
 
@@ -33,7 +33,7 @@
     <ul class="resume-item-list">
       <li>Scripting in Python, Bash, Ruby & Javascript</li>
       <li>Version Control & Deployments via Git, BitBucket, Google Cloud Platform</li>
-      <li>Zendesk Reporting KPI's and Satisfaction, Project Management and Collaboration</li>
+      <li>Zendesk Reporting KPIs and Satisfaction, Project Management and Collaboration</li>
       <li>Support & Enablement, Integrations with Zendesk, Salesforce, RingCentral, Slack</li>
       <li>Building and Maintaining our Knowledge Base, Support Center, Product Content and Videos</li>
     </ul>
