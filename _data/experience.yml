@@ -1,8 +1,21 @@
 # Jobs
 
+# Product Manager
+- company: Keen.io
+  position: Product Manager
+  duration: Jul 2018 &mdash; Present
+  summary: Product Ownership of Keens vision, roadmap, backlog, customer feedback loop, product training, platform experimentation, and collaborating with a world class engineering and ui/ux design team.
+    <ul class="resume-item-list">
+      <li>Roadmap Design and Deliverables, Feature Benefit Analysis, User Stories and Narratives</li>
+      <li>Customer Feedback Loops, Surveys, Managing of our Backlog, Competitor/Market Analysis</li>
+      <li>Developing and Launching Products in a Cloud based architecture (AWS), REST API, SDKs</li>
+    </ul>
+
+
+# Solutions Engineering
 - company: Keen.io
   position: Solutions Engineer
-  duration: Oct, 2018 &mdash; Present
+  duration: Oct 2018 &mdash; Present
   summary: Pre-Sales, Integrations, Solutions Architecting, Technical Sales.
     <ul class="resume-item-list">
       <li>Product Demonstrations, Proof of Concept, Technical Evaluation and Requirements</li>
@@ -15,7 +28,7 @@
 # Engineering, AI, Machine Learning
 - company: SparkCognition
   position: Customer Support Engineer
-  duration: Feb, 2018 &mdash; Oct, 2018
+  duration: Feb 2018 &mdash; Oct 2018
   summary: Technical Support Lead, Integrations, Process Management and Zendesk Operations Owner.
     <ul class="resume-item-list">
       <li>Scripting in Python, Bash, Ruby & Javascript</li>
@@ -28,7 +41,7 @@
 # Director of Sales Strategy
 - company: Dropoff
   position: Sales Operations Analyst
-  duration:  Jun, 2017 &mdash; Feb, 2018
+  duration:  Jun 2017 &mdash; Feb 2018
   summary: Sales Operations CRM Efficiencies & Workflows. Lead Generation, Data Cleansing, Data Processing. Email Content Manager, Automation and A/B Testing.
         <ul class="resume-item-list">
           <li>Email Automation via HubSpot, MailShake</li>
@@ -39,7 +52,7 @@
 # Customer Success Manager
 - company: Outbound Engine
   position: Customer Success Manager, Data Analyst
-  duration:   Feb, 2014  &mdash; March, 2017
+  duration:   Feb 2014  &mdash; March 2017
   summary: Customer Success Leader, Data Analyst & Ops Specialist.
 
     <ul class="resume-item-list">
@@ -51,7 +64,7 @@
 # Customer Success Manager
 - company: Yodle
   position: Sales Representative
-  duration:   Feb, 2013  &mdash; Feb, 2014
+  duration:   Feb 2013  &mdash; Feb 2014
   summary: Sales, Pipeline Management, Team Leadership.
 
     <ul class="resume-item-list">
