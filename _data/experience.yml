@@ -1,18 +1,20 @@
 # Jobs
 
-# Product Manager
+# SA
 - company: Keen.io
-  position: Product Manager
-  duration: Jul 2018 &mdash; Present
-  summary: Product Ownership of Keens vision, roadmap, backlog, customer feedback loop, product training, platform experimentation.
+  position: Solutions Architect
+  duration: Oct 2018 &mdash; Present
+  summary: Building strong relationships with our customers through technical consoluting. Liason between Sales, Engineering, and Product to design, execute, and deliver elegant solutions.
     <ul class="resume-item-list">
-      <li>Roadmap Design and Deliverables, Feature Benefit Analysis, User Stories, Narratives</li>
-      <li>Customer Feedback and Surveys, Backlog Management, Competitor/Market Analysis</li>
-      <li>Developing and Launching Products in a Cloud based architecture (AWS), REST API, SDKs</li>
+      <li>I serve as an SME when recommending best practices and providing use cases to solve customers needs and goals.</li>
+      <li>Converting Functional Requirements to Technical Architecture</li>
+      <li>Designing, Developing, and Managing processes that utilize Keen, and extend other Cloud based services (AWS), REST APIs, SDKs</li>
+      <li>Predict issues/concerns and ability to elevate them to the appropriate point of contact and managing to a swift resolution</li>
+      <li>Train both technical and business users to fully utilize the capabilities of our product.</li>
     </ul>
 
 
-# Solutions Engineering
+# Solutions Engineer
 - company: Keen.io
   position: Solutions Engineer
   duration: Oct 2018 &mdash; Jul 2019
@@ -25,7 +27,7 @@
     </ul>
 
 
-# Engineering, AI, Machine Learning
+# Platform Engineering Support, AI, Machine Learning
 - company: SparkCognition
   position: Customer Support Engineer
   duration: Feb 2018 &mdash; Oct 2018
@@ -38,7 +40,7 @@
       <li>Building and Maintaining our Knowledge Base, Support Center, Product Content and Videos</li>
     </ul>
 
-# Director of Sales Strategy
+# Sales Ops
 - company: Dropoff
   position: Sales Operations Analyst
   duration:  Jun 2017 &mdash; Feb 2018
@@ -61,7 +63,7 @@
       <li>Data Quality, Salesforce Support, Reporting, Extraction, Transformation, and Loading</li>
     </ul>
 
-# Customer Success Manager
+# Sales Executive
 - company: Yodle
   position: Sales Representative
   duration:   Feb 2013  &mdash; Feb 2014
