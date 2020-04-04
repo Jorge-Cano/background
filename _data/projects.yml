@@ -6,14 +6,14 @@
   role: Solutions Engineer
   duration: 2019
   url: "https://blog.keen.io/tutorial-keen-nlp-sentiment-analysis-made-easy/"
-  description: Natural Language Processing utilizing Google NLP API, A feedback form built from scratch and incorporates sentiment analysis and then processes the analytics through Keen.io
+  description: Natural Language Processing utilizing Google NLP API, A feedback form that incorporates sentiment analysis and then processes the analytics through Keen.io built from scratch
 
 # Quote App
 - project: Quote Machine
   role: Web Development
   duration: 2017
   url: "https://github.com/Jorge-Cano/Quote-Machine-React"
-  description: Creating an CRUD Application that can upload quotes to Firebase, Authenticate Users via Github and Gmail.
+  description: Creating a CRUD Application that can upload quotes to Firebase, Authenticate Users through Github and Gmail via OAuth protocol.
 
 # Thumper
 - project: Thumper, Websockets and Music for Collaboration
