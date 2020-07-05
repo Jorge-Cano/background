@@ -3,34 +3,21 @@
 # SA
 - company: Keen.io
   position: Solutions Architect
-  duration: Oct 2019 &mdash; Present
+  duration: Oct 2018 &mdash; Present
   summary: Building strong relationships with our customers through technical consulting. Liason between Sales, Engineering, and Product to design, execute, and deliver elegant solutions.
     <ul class="resume-item-list">
       <li>SME when recommending best practices and providing use cases to solve customers needs and goals.</li>
       <li>Converting Functional Requirements to Technical Architecture, Design, Throughput, and addressing System Wide Concerns. </li>
-      <li>Designing and Developing applications that utilize Keen, and extend to other Cloud based services namely AWS and GCP.</li>
-      <li>Lead Product Training for both technical audiences and business users.</li>
+      <li>Designing and Developing applications that utilize Keen and extend to other Cloud based services namely AWS and GCP.</li>
+      <li>Data Modeling, NoSQL, JSON, AWS, API and SDKs in Python/Node.js/Ruby/cURL</li>
     </ul>
 
 
-# Solutions Engineer
-- company: Keen.io
-  position: Solutions Engineer
-  duration: Oct 2018 &mdash; Oct 2019
-  summary: Pre-Sales, Integrations, Solutions Architecting, Technical Sales.
-    <ul class="resume-item-list">
-      <li>Product Demonstrations, Proof of Concept, Technical Evaluation and Requirements</li>
-      <li>Wireframing, Mockups, UI Design, Query Design, Data Modeling</li>
-      <li>Recommendations, Guidance, Post-Sales Solutions, Account Management</li>
-      <li>Support and Enablement, Integrations with Keen API, Intercom, DialPad, Slack, Canny</li>
-    </ul>
-
-
-# Platform Engineering Support, AI, Machine Learning
+# Platform Engineering Support, AI, Machine Learning, Automated Modeling Building
 - company: SparkCognition
   position: Customer Support Engineer
   duration: Feb 2018 &mdash; Oct 2018
-  summary: Technical Support Lead, Integrations, Process Management and Zendesk Operations Owner.
+  summary: Technical Support Lead, Integrations, Process Management and Zendesk Operations Owner
     <ul class="resume-item-list">
       <li>Scripting in Python, Bash, Ruby, and Javascript</li>
       <li>Version Control and Deployments via Git, BitBucket, Google Cloud Platform</li>
@@ -42,8 +29,8 @@
 # Sales Ops
 - company: Dropoff
   position: Sales Operations Analyst
-  duration:  Jun 2017 &mdash; Feb 2018
-  summary: Sales Operations CRM Efficiencies and Workflows. Lead Generation, Data Cleansing, Data Processing. Email Content Manager, Automation and A/B Testing.
+  duration:  Jun 2017 &mdash; Jan 2018
+  summary: Sales Operations CRM Efficiencies and Workflows; Lead Generation, Data Cleansing, Data Processing. Email Content Manager, Automation and A/B Testing.
         <ul class="resume-item-list">
           <li>Email Automation via HubSpot, MailShake</li>
           <li>Webscraping, Lead Generation and Data Transformation</li>
@@ -53,8 +40,8 @@
 # Customer Success Manager
 - company: OutboundEngine
   position: Customer Success Manager, Data Analyst
-  duration:   Feb 2014  &mdash; March 2017
-  summary: Customer Success Leader, Data Analyst, and Ops Specialist.
+  duration:   Feb 2014  &mdash; Mar 2017
+  summary: Customer Success Leader, Data Analyst, and Ops Specialist
 
     <ul class="resume-item-list">
       <li>Team Lead, Training, Onboarding, Tech Support, Analysis and Retention of Accounts</li>
@@ -66,7 +53,7 @@
 - company: Yodle
   position: Sales Representative
   duration:   Feb 2013  &mdash; Feb 2014
-  summary: Sales, Pipeline Management, Team Leadership.
+  summary: Sales, Pipeline Management, Team Leadership
 
     <ul class="resume-item-list">
       <li>Selling Yodle Brand SEM, SEO, PPC Paid Advertising</li>
