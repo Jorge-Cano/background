@@ -2,29 +2,29 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Sentiment Analysis
-- project: NLP API / Serverless Functions with GCP
-  role: Solutions Engineering / Solutions Architecture
+- project: NLP API, Serverless Functions with GCP
+  role: Solutions Engineering, Solutions Architecture
   duration: 2019
   url: "https://keen.io/blog/tutorial-keen-nlp-sentiment-analysis-made-easy/"
   description: Natural Language Processing with Google's NLP API; I built a feedback loop workload that incorporates sentiment analysis which appens a score and it processed with Keen's compute/and visualizations
 
 # Dashboard for Sentiment App
 - project: Data Visualization for NLP POC
-  role: Solutions Engineering / Solutions Architecture
+  role: Solutions Engineering, Solutions Architecture
   duration: 2019
   url: "https://dashboards.keen.io/?id=5ea1c04f1e421c0016e5bad7&projectId=5c2e3be8c9e77c0001ed971f&accessKey=62208E6C153F6B7E89D3C3982F4956443E51B3055922BF6AA1C57400C1E123A6"
   description: Dashboard designed with Keen.io for Sentiment Analysis Proof of Concept 
   
 # To Do List, Keen Tracking, Dashboard Mockup
-- project: Heroku App / Keen Dashboard Mockup
-  role: Solutions Engineering / Solutions Architecture
+- project: Heroku App, Keen Dashboard Mockup
+  role: Solutions Engineering, Solutions Architecture
   duration: 2019
   url: "https://dashboards.keen.io/?id=5e60001262a7780018691cab&projectId=5bce2b59c9e77c00018f5028&accessKey=B709654C51D7A2872AEF8866A0B9EAE9810828801FBBD145B2630166EEFF8421"
   description: I built a simple to do list in Heroku with Sinatra, then added Keen tracking and built a dashboard with multiple KPIs
 
 # Quote App
 - project: Quote Machine
-  role: Web Development
+  role: Developer
   duration: 2017
   url: "https://github.com/Jorge-Cano/Quote-Machine-React"
   description: Creating a CRUD Application that can upload quotes to Firebase, Authenticate Users through Github and Gmail via OAuth protocol.
