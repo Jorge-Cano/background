@@ -4,12 +4,12 @@
 - company: Keen.io
   position: Solutions Architect
   duration: Oct 2018 &mdash; Present
-  summary: Building strong relationships with our customers through technical consulting; Liason between Sales, Engineering, and Product to Design, Execution, and Delivering Elegant Solutions
+  summary: Building strong relationships with our customers through technical consulting <br> Liason between Sales, Engineering, Product and Customer Success; <br> From Pre-Sales, to Design/Execution/Delivery of Elegant Solutions
     <ul class="resume-item-list">
-      <li>SME when recommending best practices and providing use cases to solve customers needs and goals.</li>
-      <li>Converting Functional Requirements to Technical Architecture, Design, Throughput, and addressing System Wide Concerns. </li>
-      <li>Designing and Developing applications that utilize Keen and extend to other Cloud based services namely AWS and GCP.</li>
-      <li>Data Modeling, NoSQL, JSON, AWS, API and SDKs in Python/Node.js/Ruby/cURL</li>
+      <li>SME when recommending best practices and providing use cases expertise to solve customers needs and goals </li>
+      <li>Converting Functional Requirements to Technical Architecture, Design, Throughput, and addressing System Wide Concerns </li>
+      <li>Designing and Developing applications that utilize Keen and extend to other Cloud based services namely AWS and GCP </li>
+      <li>Data Modeling, NoSQL, JSON, AWS, API and SDKs in Python/Node.js/Ruby/cURL </li>
     </ul>
 
 
@@ -17,7 +17,7 @@
 - company: SparkCognition
   position: Customer Support Engineer
   duration: Feb 2018 &mdash; Oct 2018
-  summary: Technical Support Lead, Integrations, Process Management and Zendesk Operations Owner
+  summary: Technical Support Lead, Integrations, Process Management, Zendesk Operations Admin
     <ul class="resume-item-list">
       <li>Scripting in Python, Bash, Ruby, and Javascript</li>
       <li>Version Control and Deployments via Git, BitBucket, Google Cloud Platform</li>
