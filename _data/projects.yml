@@ -2,11 +2,11 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # Sentiment Analysis
-- project: NLP API and Serverless Application GCP
+- project: NLP API / Serverless Functions with GCP
   role: Solutions Engineering / Solutions Architecture
   duration: 2019
   url: "https://keen.io/blog/tutorial-keen-nlp-sentiment-analysis-made-easy/"
-  description: Natural Language Processing utilizing Google NLP API, A feedback form that incorporates sentiment analysis and then processes the analytics through Keen.io built from scratch
+  description: Natural Language Processing with Google's NLP API; I built a feedback loop workload that incorporates sentiment analysis which appens a score and it processed with Keen's compute/and visualizations
 
 # Dashboard for Sentiment App
 - project: Data Visualization for NLP POC
@@ -16,11 +16,11 @@
   description: Dashboard designed with Keen.io for Sentiment Analysis Proof of Concept 
   
 # To Do List, Keen Tracking, Dashboard Mockup
-- project: Heroku App, Keen Dashboard Mockup
+- project: Heroku App / Keen Dashboard Mockup
   role: Solutions Engineering / Solutions Architecture
   duration: 2019
   url: "https://dashboards.keen.io/?id=5e60001262a7780018691cab&projectId=5bce2b59c9e77c00018f5028&accessKey=B709654C51D7A2872AEF8866A0B9EAE9810828801FBBD145B2630166EEFF8421"
-  description: Built a simple to do list in Heroku with Sinatra, added Keen Tracking and Built a Dashboard with multiple KPIs
+  description: I built a simple to do list in Heroku with Sinatra, then added Keen tracking and built a dashboard with multiple KPIs
 
 # Quote App
 - project: Quote Machine
