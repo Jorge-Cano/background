@@ -10,11 +10,17 @@
 
 # Dashboard for Sentiment App
 - project: Datavisualization for NLP POC
+  role: Solutions Engineering / Solutions Architecture
+  duration: 2019
   url: "https://dashboards.keen.io/?id=5ea1c04f1e421c0016e5bad7&projectId=5c2e3be8c9e77c0001ed971f&accessKey=62208E6C153F6B7E89D3C3982F4956443E51B3055922BF6AA1C57400C1E123A6"
-
+  description: Dashboard designed with Keen.io for Sentiment Analysis Proof of Concept 
+  
 # To Do List, Keen Tracking, Dashboard Mockup
 - project: Heroku App, Keen Dashboard Mockup
+  role: Solutions Engineering / Solutions Architecture
+  duration: 2019
   url: "https://dashboards.keen.io/?id=5e60001262a7780018691cab&projectId=5bce2b59c9e77c00018f5028&accessKey=B709654C51D7A2872AEF8866A0B9EAE9810828801FBBD145B2630166EEFF8421"
+  description: Built a simple to do list in Heroku with Sinatra, added Keen Tracking and Built a Dashboard with multiple KPIs
 
 # Quote App
 - project: Quote Machine
