@@ -2,11 +2,18 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 #Sentiment Analysis
-- project: Natural Language Processing for Data Analysis
-  role: Solutions Engineer
+- project: Natural Language Processing / Serverless Architecture with Google Cloud
+  role: Solutions Engineering / Solutions Architecture
   duration: 2019
-  url: "https://blog.keen.io/tutorial-keen-nlp-sentiment-analysis-made-easy/"
+  url: "https://keen.io/blog/tutorial-keen-nlp-sentiment-analysis-made-easy/"
   description: Natural Language Processing utilizing Google NLP API, A feedback form that incorporates sentiment analysis and then processes the analytics through Keen.io built from scratch
+
+- project: Dashboard for Natural Language Processing Project
+  url: "https://dashboards.keen.io/?id=5ea1c04f1e421c0016e5bad7&projectId=5c2e3be8c9e77c0001ed971f&accessKey=62208E6C153F6B7E89D3C3982F4956443E51B3055922BF6AA1C57400C1E123A6"
+
+# To Do List, Keen Tracking, Dashboard Mockup
+- project: To Do List hosted on Heroku, Dashboard made with Keen.io/C3.js/Datavisualization
+  url: "https://dashboards.keen.io/?id=5e60001262a7780018691cab&projectId=5bce2b59c9e77c00018f5028&accessKey=B709654C51D7A2872AEF8866A0B9EAE9810828801FBBD145B2630166EEFF8421"
 
 # Quote App
 - project: Quote Machine
