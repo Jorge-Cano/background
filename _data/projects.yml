@@ -6,7 +6,7 @@
   role: Solutions Engineering, Solutions Architecture
   duration: 2019
   url: "https://keen.io/blog/tutorial-keen-nlp-sentiment-analysis-made-easy/"
-  description: Natural Language Processing with Google's NLP API; I built a feedback loop workload that incorporates sentiment analysis which appens a score and it processed with Keen's compute/and visualizations
+  description: Natural Language Processing with Google's NLP API; I built a feedback loop workload that incorporates sentiment analysis which appens a score and it processed with Keen's compute and visualizations
 
 # Dashboard for Sentiment App
 - project: Data Visualization for NLP POC
