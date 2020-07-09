@@ -30,11 +30,11 @@
 - company: Dropoff
   position: Sales Operations Analyst
   duration:  Jun 2017 &mdash; Jan 2018
-  summary: Sales Operations CRM Efficiencies and Workflows; Lead Generation, Data Cleansing, Data Processing. Email Content Manager, Automation and A/B Testing
+  summary: Sales Operations CRM Efficiencies and Workflows <br> Lead Generation, Data Cleansing, Data Processing <br> Email Content Manager, Automation and A/B Testing
         <ul class="resume-item-list">
           <li>Email Automation via HubSpot, MailShake</li>
           <li>Webscraping, Lead Generation and Data Transformation</li>
-          <li>Reporting, Sales Forecasting, and DataBase Management</li>
+          <li>Reporting, Sales Forecasting, and Database Management</li>
         </ul>
 
 # Customer Success Manager
